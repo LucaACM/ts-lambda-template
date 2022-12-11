@@ -1,0 +1,7 @@
+ENV: 'dev'
+region: 'us-west-2'
+awsRole: ''
+restApiId: ''
+restApiRootResourceId: ''
+accessKeyId: ''
+secretAccessKey: ''
